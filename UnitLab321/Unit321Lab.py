@@ -28,8 +28,14 @@ def getYearInSchool(grade1):
 
 
 def calcAverageGrade(numbers):
-    percent = sum(numbers)/float(len(numbers))
-    return(percent)
+    print('calcAverageGrade')
+    for i in numbers(0,4):
+        if(i)
+
+
+    #percent = sum(numbers)/float(len(numbers))
+    #print(sum(numbers))
+    #return(percent)
 
 
 def getLetterGrade(avgLetterGrade):
