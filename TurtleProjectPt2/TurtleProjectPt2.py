@@ -1,7 +1,7 @@
 import turtle
 
 
-def main () :
+def main():
     turtle.setup(width=800 , height=800)
     turtle.title("Turtle Graphics - turtleIntro")
     turtle.bgcolor("#1de047")

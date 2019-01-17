@@ -13,6 +13,5 @@ print(myList)
 
 
 for a in range(0, len(myList)):
-    list=[]
     myList[a]=myList[a] *10
     print(myList)

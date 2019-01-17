@@ -1,21 +1,25 @@
-#def draw7():
-#    for i in range(0, 7):
-#       starLoops()
+def draw7():
+    input('Pause')
+    for i in range(0, 7):
+       starLoops()
 
 
 
+def starLoops():
+    for i in range(0 , 7):
+        starString = ''
+        for i in range(0, 7):
+            starString = (starString + '*')
+    print(starString)
 
-#def starLoops():
-#    for i in range(0 , 7):
-#        starString = ''
-#        for i in range(0, 7):
-#            starString = (starString + '*')
-#    print(starString)
 
-#draw7()
+
+draw7()
+
 
 
 def starsAndStripes():
+    input('Pause')
     for i in range(0, 3):
         string1 = ''
         string2 = ''
@@ -24,7 +28,5 @@ def starsAndStripes():
             string2 = (string2 + '-')
         print(string1)
         print(string2)
-
-
 
 starsAndStripes()

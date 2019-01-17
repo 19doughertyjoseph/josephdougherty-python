@@ -1,0 +1,126 @@
+Index: Unit2BLab/Unit2BLab.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Unit2BLab/Unit2BLab.py	(date 1536682570000)
++++ Unit2BLab/Unit2BLab.py	(date 1536682570000)
+@@ -0,0 +1,31 @@
++numGrade = int(input("enter a number"))
++
++if numGrade >= 90:
++    print('Yahoo you got an A!')
++
++elif numGrade >= 80:
++    print('Good you got a B!')
++
++elif numGrade >= 70:
++    print('Okay you got a C!')
++
++else:
++    print('You better study harder')
++
++
++userinput = str(input('type favorite color'))
++print(userinput)
++if userinput == 'blue':
++    print('The sky is blue')
++
++elif userinput == 'green':
++    print('The forest is green')
++
++elif userinput == 'red':
++    print('I love red')
++
++elif userinput == 'yellow':
++    print('Yuck yellow')
++
++else:
++    print('I am a dumb computer - I only know 4 colors')
+Index: Unit2BLab/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Unit2BLab/.idea/modules.xml	(date 1536680658000)
++++ Unit2BLab/.idea/modules.xml	(date 1536680658000)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/Unit2BLab.iml" filepath="$PROJECT_DIR$/.idea/Unit2BLab.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: Unit2BLab/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Unit2BLab/.idea/misc.xml	(date 1536680658000)
++++ Unit2BLab/.idea/misc.xml	(date 1536680658000)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: Unit2BLab/.idea/Unit2BLab.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Unit2BLab/.idea/Unit2BLab.iml	(date 1536680724000)
++++ Unit2BLab/.idea/Unit2BLab.iml	(date 1536680724000)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++  <component name="TestRunnerService">
++    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
++  </component>
++</module>
+\ No newline at end of file
+Index: Unit2BLab/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Unit2BLab/.idea/vcs.xml	(date 1536680724000)
++++ Unit2BLab/.idea/vcs.xml	(date 1536680724000)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: Unit2BLab/.idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Unit2BLab/.idea/inspectionProfiles/Project_Default.xml	(date 1536680724000)
++++ Unit2BLab/.idea/inspectionProfiles/Project_Default.xml	(date 1536680724000)
+@@ -0,0 +1,13 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
++      <option name="ignoredErrors">
++        <list>
++          <option value="W29" />
++          <option value="E501" />
++        </list>
++      </option>
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file

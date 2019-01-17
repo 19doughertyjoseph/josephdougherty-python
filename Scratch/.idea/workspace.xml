@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ea4c88a-2f33-48d8-a7fb-68f85316dbca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TurtleIntro/.idea/TurtleIntro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TurtleIntro/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TurtleIntro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TurtleIntro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TurtleIntro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TurtleIntro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TurtleIntro/Turtle Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit4CLab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Unit4CLab/Unit4CLab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitLab4A/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitLab4A/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitLab4A/UnitLab4A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitLab4D/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitLab4D/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloTacoma/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloTacoma/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitLab321/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitLab321/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitLab321/Unit Lab 4C.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DieLab/DieLab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitLab321/Unit321Lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitLab321/Unit321Lab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitLab4B/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitLab4B/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitLab4B/Unit Lab 4B.py" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitLab4B/Unit Lab 4B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitLab4C/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitLab4C/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitLab4C/Unit Lab 4C.py" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitLab4C/Unit Lab 4C.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="731011911">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="800" />
+    <option name="y" value="25" />
+    <option name="width" value="800" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="800" y="25" width="800" height="875" extended-state="4" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5083871" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

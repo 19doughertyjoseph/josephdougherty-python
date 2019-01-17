@@ -3,14 +3,15 @@ def main():
     gradeIn = input('What grade are you in -?')
     grade1 = getYearInSchool(gradeIn)
     print('you are a ' + str(grade1))
-    percent = calcAverageGrade(numlist1)
+    percent = calcAverageGrade()
     print('your average grade is ' + str(percent))
-    Grade = getLetterGrade(int(percent))
-    print('Your letter grade is ' + str(Grade))
+    grade = getLetterGrade(int(percent))
+    print('Your letter grade is ' + str(grade))
+
     if percent >= 65:
-        print('Yay you are passing!')
+      print('Yay you are passing!')
     else:
-        print('You failed. Study more')
+      print('You failed. Study more')
 
 
 def getYearInSchool(grade1):
@@ -27,18 +28,24 @@ def getYearInSchool(grade1):
 
 
 
-def calcAverageGrade(numbers):
+def calcAverageGrade():
     print('calcAverageGrade')
-    for i in numbers(0,4):
-        if(i)
-
-
-    #percent = sum(numbers)/float(len(numbers))
-    #print(sum(numbers))
-    #return(percent)
+    sum = 0.0
+    num = input('how many grades')
+    grades = []
+    print(num)
+    for x in range(0, int(num)):
+        grades.append(input('grade'))
+    for i in grades:
+        sum = (sum + float(i))
+    print(sum)
+    average = (sum/len(grades))
+    print(average)
+    return(average)
 
 
 def getLetterGrade(avgLetterGrade):
+    print('getLetterGrade')
     if avgLetterGrade >= 90:
         return 'A'
     elif avgLetterGrade >= 80:
